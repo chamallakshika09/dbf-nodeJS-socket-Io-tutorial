@@ -1,0 +1,21 @@
+{
+  "name": "dbf-nodejs-socket-io-tutorial",
+  "version": "1.0.0",
+  "description": "Examples from the tutorial",
+  "main": "index.js",
+  "repository": "https://github.com/chamallakshika09/dbf-nodeJS-socket-Io-tutorial.git",
+  "author": "Chamal Perera <chamallakshika09@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
